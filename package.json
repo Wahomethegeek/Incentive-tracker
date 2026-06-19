@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint .",
     "db:push": "drizzle-kit push",
+    "db:init": "node scripts/init-turso.js",
     "create-manager": "node scripts/create-manager.js"
   },
   "dependencies": {
