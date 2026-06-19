@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 cfa520985f34ac327c554f55ce400786b7831c44 Wahomethegeek <gatwirikelvin@outlook.com> 1756321660 +0300	commit (initial): add webflow files
+cfa520985f34ac327c554f55ce400786b7831c44 0000000000000000000000000000000000000000 Wahomethegeek <gatwirikelvin@outlook.com> 1756321699 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 cfa520985f34ac327c554f55ce400786b7831c44 Wahomethegeek <gatwirikelvin@outlook.com> 1756321699 +0300	Branch: renamed refs/heads/master to refs/heads/main
+cfa520985f34ac327c554f55ce400786b7831c44 c6cd212f8a408684a9d9e16c4d1d4bd723a9c59b Wahomethegeek <gatwirikelvin@outlook.com> 1756324864 +0300	commit: add other pages
+c6cd212f8a408684a9d9e16c4d1d4bd723a9c59b badcfd981e0d69170fcb4c1ff17512bca05b4905 Wahomethegeek <gatwirikelvin@outlook.com> 1756325640 +0300	commit: Add all pages and vercel config
+badcfd981e0d69170fcb4c1ff17512bca05b4905 19a15455a03d6dc0a498d091ab9cc40e37c846ec Wahomethegeek <gatwirikelvin@outlook.com> 1756332431 +0300	commit: add new stylings
+19a15455a03d6dc0a498d091ab9cc40e37c846ec 380216dc956e0f71f263bddb08f612e0f62d228d Wahomethegeek <gatwirikelvin@outlook.com> 1756337175 +0300	commit: add images and update service page
+380216dc956e0f71f263bddb08f612e0f62d228d 0000000000000000000000000000000000000000 Wahomethegeek <gatwirikelvin@outlook.com> 1756935669 +0300	Branch: renamed refs/heads/main to refs/heads/main
+380216dc956e0f71f263bddb08f612e0f62d228d 380216dc956e0f71f263bddb08f612e0f62d228d Wahomethegeek <gatwirikelvin@outlook.com> 1756935669 +0300	Branch: renamed refs/heads/main to refs/heads/main
+380216dc956e0f71f263bddb08f612e0f62d228d 0000000000000000000000000000000000000000 Wahomethegeek <gatwirikelvin@outlook.com> 1756935760 +0300	Branch: renamed refs/heads/main to refs/heads/main
+380216dc956e0f71f263bddb08f612e0f62d228d 380216dc956e0f71f263bddb08f612e0f62d228d Wahomethegeek <gatwirikelvin@outlook.com> 1756935760 +0300	Branch: renamed refs/heads/main to refs/heads/main
+380216dc956e0f71f263bddb08f612e0f62d228d 0000000000000000000000000000000000000000 Wahomethegeek <gatwirikelvin@outlook.com> 1756935990 +0300	Branch: renamed refs/heads/main to refs/heads/main
+380216dc956e0f71f263bddb08f612e0f62d228d 380216dc956e0f71f263bddb08f612e0f62d228d Wahomethegeek <gatwirikelvin@outlook.com> 1756935990 +0300	Branch: renamed refs/heads/main to refs/heads/main
+380216dc956e0f71f263bddb08f612e0f62d228d 0000000000000000000000000000000000000000 Wahomethegeek <gatwirikelvin@outlook.com> 1756936078 +0300	Branch: renamed refs/heads/main to refs/heads/main
+380216dc956e0f71f263bddb08f612e0f62d228d 380216dc956e0f71f263bddb08f612e0f62d228d Wahomethegeek <gatwirikelvin@outlook.com> 1756936078 +0300	Branch: renamed refs/heads/main to refs/heads/main
+380216dc956e0f71f263bddb08f612e0f62d228d 1aa1bab54914e50d8bd7fcfc88109b69aaa8b222 Wahomethegeek <gatwirikelvin@outlook.com> 1756941267 +0300	commit: feat: Integrate Vercel Analytics
+1aa1bab54914e50d8bd7fcfc88109b69aaa8b222 f83e90980945902aefefb1f7116c64314017423c Wahomethegeek <gatwirikelvin@outlook.com> 1756942533 +0300	commit: feat: Integrate Vercel speed-insights
+f83e90980945902aefefb1f7116c64314017423c b17663a1c7ac1dbbd97a8df54df10348aba77efb CarebearBooks <accounts@carebearbooks.com> 1756945238 +0300	commit: chore: Align Git author and Vercel
