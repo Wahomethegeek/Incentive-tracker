@@ -102,10 +102,11 @@ async function saveFile(
 ): Promise<{ storageKey: string }> {
   if (process.env.BLOB_READ_WRITE_TOKEN) {
     const { put } = await import("@vercel/blob");
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const blob = await put(
       `submissions/${trackingId}/${crypto.randomUUID()}-${safeKeyPart(fileName) || "evidence"}`,
       file,
-      { access: "public" }
+      { access: "private", token: process.env.BLOB_READ_WRITE_TOKEN } as any
     );
     return { storageKey: blob.url };
   }
